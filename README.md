@@ -1,12 +1,20 @@
-Arduino with SparkFun Inventor's Kit V4.1 - Sample Sketches
+Arduino with Sample Sketches
 ======================================================
 
 [![SparkFun Inventor's Kit](https://cdn.sparkfun.com//assets/parts/1/3/7/3/7/15267-SparkFun_Inventor_s_Kit_-_v4.1-01a.jpg)](https://www.sparkfun.com/products/15267)
 
 [*SparkFun Inventor's Kit V4.1 (KIT-15267)*](https://www.sparkfun.com/products/15267)
 
-The example sketches in this repository are part of the SparkFun Inventor's Kit (a.k.a. *"The SIK"*).
-The SIK consists of an [SparkFun RedBoard](https://www.sparkfun.com/products/15123) and a variety of electronic components designed to help you learn basic programming and circuits.
+The code in these pages are designed for exploring Arduino's in the 7Hills Courses, namely
+ 1. Computer Engineering
+ 2. Micro Engineering and
+ 3. Macro Engineering
+    Though the cose is a great introduction for ANYONE - this guide is designed to be a started for anyone starting to learn to use circuits.  As the sample code (AKA 'sketches') for each lab may change due to different manufacturers realeases, the sketches in this repository designed to be a starting point. Some of the pictures throughout use graphics from TinkerCad Circuits - a helpful testing and learning virtual environment - but there are many, many variations of the Arduino board as - by design Arduino was open source.  Therefore, you might see Arduino Uno and similar boards iun a number of colors and from a number of manufacturers.  We bought a class set of SparkFun's SIK (SparkFun Inventor Kit) and so - from time to time, I may refere to them as SIK.
+    
+The SIK consists of an [SparkFun RedBoard](https://www.sparkfun.com/products/15123) and a variety of electronic components designed to help you learn basic programming and circuits.  You'll find I start out with simple sketches like the universal Blink lab - which helps users learn about the board, basic breadboarding concepts, and simple components like jumper wires, LED's (Light Emitting Diodes) and resistors. (more on that later)
+
+As there are starter examples (and there are MANY available online) this is only a starting point.  You are welcome to build all the labs provided - but ENCOURAGED to try things on your own as you go... don't be afraid to ask the best question - "I wonder if...?"
+
 Build five projects comprised of 16 circuits as you navigate through the best inventor's kit yet! Once you've mastered these circuits, you'll be able to start building projects limited only by your imagination!
 
 These sketches are designed to work with the [SIK Experiment Guide](https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-experiment-guide---v41) tutorial.
