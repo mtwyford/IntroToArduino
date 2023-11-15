@@ -1,4 +1,4 @@
-SparkFun Inventor's Kit V4.1 - Example Sketches
+Arduino with SparkFun Inventor's Kit V4.1 - Sample Sketches
 ======================================================
 
 [![SparkFun Inventor's Kit](https://cdn.sparkfun.com//assets/parts/1/3/7/3/7/15267-SparkFun_Inventor_s_Kit_-_v4.1-01a.jpg)](https://www.sparkfun.com/products/15267)
