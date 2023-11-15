@@ -9,6 +9,7 @@ The code in these pages are designed for exploring Arduino's in the 7Hills Cours
  1. Computer Engineering
  2. Micro Engineering and
  3. Macro Engineering
+ 4. 
 
 Though the cose is a great introduction for ANYONE - this guide is designed to be a started for anyone starting to learn to use circuits.  As the sample code (AKA 'sketches') for each lab may change due to different manufacturers realeases, the sketches in this repository designed to be a starting point. Some of the pictures throughout use graphics from TinkerCad Circuits - a helpful testing and learning virtual environment - but there are many, many variations of the Arduino board as - by design Arduino was open source.  Therefore, you might see Arduino Uno and similar boards iun a number of colors and from a number of manufacturers.  We bought a class set of SparkFun's SIK (SparkFun Inventor Kit) and so - from time to time, I may refere to them as SIK.
     
